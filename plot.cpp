@@ -1,4 +1,4 @@
-// basic file operations
+// Построение графика синуса
 #include <iostream>
 #include <fstream>
 #include <cmath>
